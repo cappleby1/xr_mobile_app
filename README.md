@@ -1,4 +1,4 @@
-#Unity XR Mobile app
+Unity XR Mobile app
 
 - Deploy onto device
 - Run as normal app
