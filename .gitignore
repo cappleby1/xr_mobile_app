@@ -100,3 +100,4 @@ InitTestScene*.unity*
 
 # VS Code folder
 .vscode/
+.DS_Store
